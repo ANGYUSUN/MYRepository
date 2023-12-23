@@ -5,5 +5,7 @@ public class A {
 		System.out.println("Hello");
 		System.out.println("master branch 수정");
 		System.out.println("A.java 수정");
+		System.out.println("Hello");
+		System.out.println("C.java 수정");
 	}
 }
